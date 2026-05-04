@@ -1,0 +1,4 @@
+pregunta 7:
+repositorio: carpeta donde se guarda el proyecto y su historial de cambios 
+commit: registro de cambios guardados en el proyecto 
+push: enviar cambios al repositorio remoto ( nube)
