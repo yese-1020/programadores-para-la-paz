@@ -1,0 +1,2 @@
+pregunta 9: ¿Qué hace el comando git commit?
+respueta: Es importante porque permite tener control y orden sobre el proyecto. Al registrar los cambios con Git, se puede ver qué se modificó, cuándo y quién lo hizo, lo que ayuda a evitar errores y confusiones
