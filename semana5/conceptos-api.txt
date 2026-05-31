@@ -1,0 +1,5 @@
+Qué hace esta ruta
+Respuesta: Una ruta define cómo responde el servidor cuando un usuario accede a una URL específica. Permite mostrar información o realizar acciones dentro de la aplicación.
+
+Para qué podría servir en una aplicación comunitaria?
+Respuesta:Podría servir para mostrar noticias, eventos, proyectos, formularios de contacto o información importante para los miembros de la comunidad, facilitando la comunicación y la participación.

@@ -1,0 +1,9 @@
+mkdir
+cd
+touch comandos.txt
+git checkout -b nombre-de-la-rama
+git branch 
+ls 
+git add .
+git commit -m ""
+git pusch -u origin nombre-de-la-rama
